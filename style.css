@@ -1,0 +1,257 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 596.012px;
+  background: #87509c;
+}
+
+.nav_content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 57px;
+}
+
+.nav_list {
+  display: flex;
+}
+
+.nav_link {
+  list-style: none;
+  margin-top: 3px;
+  padding: 3px 18px;
+  background: #643a79;
+  margin-right: 30px;
+  border-radius: 5px;
+}
+
+.nav_link a {
+  text-decoration: none;
+  color: #fff;
+  font-family: Titillium Web;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.head_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.head_content h1 {
+  color: #f7f3ea;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 42.153px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 133px;
+}
+
+.head_content button {
+  margin-top: 25px;
+  width: 293px;
+  height: 70px;
+  flex-shrink: 0;
+  background: #eb7d4b;
+  color: #fff;
+  font-family: Titillium Web;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+}
+
+.sec_one {
+  background: #17c2a4;
+  height: 747px;
+}
+
+.sec_one {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sec_one,
+.cs h3 {
+  color: #FFF;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 106.49px;
+}
+
+.line {
+  width: 87px;
+  height: 4px;
+  flex-shrink: 0;
+  background: #000;
+  opacity: 0.15;
+}
+
+.sec_one p {
+  color: #FFF;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 18.88px;
+}
+
+.csd {
+  padding: 71.12px;
+}
+
+.csd p {
+  color: #FFF;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding: 12.75px;
+}
+
+.csd h5 {
+  color: #FFF;
+  font-family: Titillium Web;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  padding-top: 59.25px;
+}
+
+.sec_two {
+  background: #E7F1F8;
+  height: 747px;
+  height: 914.04px;
+}
+
+.sec_two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sec_two,
+.cs2 h3 {
+  color: #3C4761;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 40.635px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 106.49px;
+}
+
+.sec_two p {
+  color: #3C4761;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 18.286px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+}
+
+.fug {
+  padding: 73.76px;
+}
+
+/* .p {
+  color: #30BAE7 !important;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: auto;
+} */
+
+.fug h5 {
+  color: #27283D;
+  font-family: Titillium Web;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 34px;
+}
+
+.fug p {
+  color: #3C4761;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding-top: 9px;
+}
+
+.sec_three {
+  background: #fff;
+  height: 655px;
+}
+
+.sec_three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sec_three,
+.cs3 h3 {
+  color: #3C4761;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 107.5px;
+}
+
+.line {
+  width: 87px;
+  height: 4px;
+  flex-shrink: 0;
+  padding: 2px;
+}
+
+.sec_three p {
+  color: #3C4761;
+  text-align: center;
+  font-family: Titillium Web;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 18.87px;
+}
+
+.ol {
+  padding: 73.76px;
+}
